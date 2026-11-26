@@ -1,2 +1,6 @@
-# mein-github-desktop-projekt
-Das ist mein erstes Projekt mit GitHub Desktop und das ist die Beschreibung.
+# \# Meine Notizen
+
+# 
+
+# Ein einfaches Projekt, um Git mit GitHub Desktop zu lernen. 
+
